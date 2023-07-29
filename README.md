@@ -1,7 +1,7 @@
 # Bible: XML and JSON
 Do you want to create a Bible based app? What about an API for Bible verses search? Now you can do this, using sources in your very own language! The main objective of this project is to allow people to create Bible related apps using XML and JSON. Do you like this idea? Help us to go even further. **Support this project! :)**
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]([https://www.roblox.com/catalog/13748938315/Black-Red-Boxers])
 
 ## How were the files built?
 The source files were generated using a Python based crawler. Therefore, these files may contain minor issues related to encoding and syntax.
